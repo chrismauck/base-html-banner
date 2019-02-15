@@ -1,5 +1,5 @@
 # Base HTML Banner
-Template for google DoubleClick (DC) standard banners, including Enabler framework. 
+Template for Google DoubleClick (DC) standard banners, including Enabler framework. 
 
 ## Overview
 Skeleton for HTML5 banner ad projects, includes:
